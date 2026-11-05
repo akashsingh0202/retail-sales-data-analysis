@@ -1,0 +1,36 @@
+StoreID,StoreName,City,State,Region,StoreType
+S001,Retail Store 01,Pune,Maharashtra,North,Outlet
+S002,Retail Store 02,Mumbai,Maharashtra,North,Flagship
+S003,Retail Store 03,Delhi,Delhi,East,High Street
+S004,Retail Store 04,Kolkata,West Bengal,North,Outlet
+S005,Retail Store 05,Bengaluru,Karnataka,East,Flagship
+S006,Retail Store 06,Bhopal,Madhya Pradesh,West,High Street
+S007,Retail Store 07,Bengaluru,Karnataka,East,Outlet
+S008,Retail Store 08,Mumbai,Maharashtra,North,Outlet
+S009,Retail Store 09,Lucknow,Uttar Pradesh,West,Flagship
+S010,Retail Store 10,Lucknow,Uttar Pradesh,Central,Outlet
+S011,Retail Store 11,Indore,Madhya Pradesh,South,Mall
+S012,Retail Store 12,Bengaluru,Karnataka,North,Mall
+S013,Retail Store 13,Indore,Madhya Pradesh,East,Mall
+S014,Retail Store 14,Nagpur,Maharashtra,West,High Street
+S015,Retail Store 15,Lucknow,Uttar Pradesh,South,Flagship
+S016,Retail Store 16,Chennai,Tamil Nadu,East,High Street
+S017,Retail Store 17,Ahmedabad,Gujarat,West,Flagship
+S018,Retail Store 18,Nagpur,Maharashtra,East,Outlet
+S019,Retail Store 19,Bengaluru,Karnataka,West,Mall
+S020,Retail Store 20,Indore,Madhya Pradesh,North,High Street
+S021,Retail Store 21,Pune,Maharashtra,South,Flagship
+S022,Retail Store 22,Surat,Gujarat,East,Flagship
+S023,Retail Store 23,Bengaluru,Karnataka,South,Flagship
+S024,Retail Store 24,Ahmedabad,Gujarat,Central,Outlet
+S025,Retail Store 25,Kolkata,West Bengal,West,Flagship
+S026,Retail Store 26,Ahmedabad,Gujarat,East,Flagship
+S027,Retail Store 27,Chennai,Tamil Nadu,West,High Street
+S028,Retail Store 28,Mumbai,Maharashtra,Central,Outlet
+S029,Retail Store 29,Nagpur,Maharashtra,North,Flagship
+S030,Retail Store 30,Jaipur,Rajasthan,East,Mall
+S031,Retail Store 31,Lucknow,Uttar Pradesh,East,High Street
+S032,Retail Store 32,Ahmedabad,Gujarat,West,Mall
+S033,Retail Store 33,Ahmedabad,Gujarat,South,Flagship
+S034,Retail Store 34,Lucknow,Uttar Pradesh,South,Outlet
+S035,Retail Store 35,Kolkata,West Bengal,West,Mall

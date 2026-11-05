@@ -1,0 +1,651 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,UnitCost
+P00001,Electronics Item 001,Electronics,Smartphones,DailyFresh,50350.73,21118.03
+P00002,Electronics Item 002,Electronics,Laptops,TechNova,11777.09,5434.61
+P00003,Electronics Item 003,Electronics,Accessories,StyleCraft,20044.31,13205.68
+P00004,Electronics Item 004,Electronics,Audio,UrbanEdge,18729.42,12114.77
+P00005,Electronics Item 005,Electronics,Smartphones,HomeNest,63287.54,44869.95
+P00006,Electronics Item 006,Electronics,Laptops,DailyFresh,12832.45,7565.47
+P00007,Electronics Item 007,Electronics,Accessories,Everday,64431.12,28026.85
+P00008,Electronics Item 008,Electronics,Audio,ActivePro,17097.96,7644.49
+P00009,Electronics Item 009,Electronics,Smartphones,StyleCraft,61323.03,33025.99
+P00010,Electronics Item 010,Electronics,Laptops,HomeNest,23067.86,11157.22
+P00011,Electronics Item 011,Electronics,Accessories,Nova,26830.05,15346.07
+P00012,Electronics Item 012,Electronics,Audio,AeroFit,27942.92,14339.59
+P00013,Electronics Item 013,Electronics,Smartphones,GlowLab,33136.61,20849.13
+P00014,Electronics Item 014,Electronics,Laptops,AeroFit,32974.61,17753.8
+P00015,Electronics Item 015,Electronics,Accessories,HomeNest,14035.01,9114.78
+P00016,Electronics Item 016,Electronics,Audio,Nova,55678.58,24457.45
+P00017,Electronics Item 017,Electronics,Smartphones,AeroFit,23722.08,14308.18
+P00018,Electronics Item 018,Electronics,Laptops,AeroFit,12576.72,8956.18
+P00019,Electronics Item 019,Electronics,Accessories,TechNova,4490.07,1685.79
+P00020,Electronics Item 020,Electronics,Audio,Everday,20979.65,9288.88
+P00021,Electronics Item 021,Electronics,Smartphones,AeroFit,17246.41,8961.06
+P00022,Electronics Item 022,Electronics,Laptops,Everday,8208.43,5856.25
+P00023,Electronics Item 023,Electronics,Accessories,AeroFit,16151.93,5797.68
+P00024,Electronics Item 024,Electronics,Audio,Nova,30378.38,20954.49
+P00025,Electronics Item 025,Electronics,Smartphones,UrbanEdge,1593.95,711.47
+P00026,Electronics Item 026,Electronics,Laptops,PureLiving,14629.4,8929.82
+P00027,Electronics Item 027,Electronics,Accessories,Nova,48737.83,20705.51
+P00028,Electronics Item 028,Electronics,Audio,TechNova,906.88,564.8
+P00029,Electronics Item 029,Electronics,Smartphones,PureLiving,39175.13,16807.12
+P00030,Electronics Item 030,Electronics,Laptops,GlowLab,49644.77,18677.91
+P00031,Electronics Item 031,Electronics,Accessories,StyleCraft,41954.31,18149.65
+P00032,Electronics Item 032,Electronics,Audio,PureLiving,31674.46,17182.56
+P00033,Electronics Item 033,Electronics,Smartphones,Zenith,38637.68,21334.71
+P00034,Electronics Item 034,Electronics,Laptops,Zenith,4842.04,2312.75
+P00035,Electronics Item 035,Electronics,Accessories,HomeNest,41027.08,26016.83
+P00036,Electronics Item 036,Electronics,Audio,DailyFresh,12748.9,5136.68
+P00037,Electronics Item 037,Electronics,Smartphones,DailyFresh,15401.61,9270.94
+P00038,Electronics Item 038,Electronics,Laptops,Zenith,34043.14,15698.14
+P00039,Electronics Item 039,Electronics,Accessories,PureLiving,59749.11,29741.8
+P00040,Electronics Item 040,Electronics,Audio,Zenith,49050.69,33747.79
+P00041,Electronics Item 041,Electronics,Smartphones,GlowLab,20711.29,11431.56
+P00042,Electronics Item 042,Electronics,Laptops,DailyFresh,26839.64,16955.87
+P00043,Electronics Item 043,Electronics,Accessories,DailyFresh,35132.0,16928.82
+P00044,Electronics Item 044,Electronics,Audio,HomeNest,43794.92,16194.08
+P00045,Electronics Item 045,Electronics,Smartphones,Zenith,22569.78,14754.33
+P00046,Electronics Item 046,Electronics,Laptops,Nova,8058.75,3050.77
+P00047,Electronics Item 047,Electronics,Accessories,PureLiving,51235.25,30903.93
+P00048,Electronics Item 048,Electronics,Audio,UrbanEdge,25001.2,16351.5
+P00049,Electronics Item 049,Electronics,Smartphones,UrbanEdge,12293.91,5341.84
+P00050,Electronics Item 050,Electronics,Laptops,UrbanEdge,60622.71,39815.47
+P00051,Electronics Item 051,Electronics,Accessories,StyleCraft,18933.28,7725.37
+P00052,Electronics Item 052,Electronics,Audio,HomeNest,14767.62,6289.03
+P00053,Electronics Item 053,Electronics,Smartphones,ActivePro,57788.12,39044.27
+P00054,Electronics Item 054,Electronics,Laptops,Nova,3171.89,2080.53
+P00055,Electronics Item 055,Electronics,Accessories,UrbanEdge,27960.7,18052.32
+P00056,Electronics Item 056,Electronics,Audio,Nova,17040.36,11500.03
+P00057,Electronics Item 057,Electronics,Smartphones,TechNova,49020.62,32245.42
+P00058,Electronics Item 058,Electronics,Laptops,Everday,16042.01,8043.62
+P00059,Electronics Item 059,Electronics,Accessories,StyleCraft,45432.65,25088.2
+P00060,Electronics Item 060,Electronics,Audio,DailyFresh,15828.24,9422.42
+P00061,Electronics Item 061,Electronics,Smartphones,UrbanEdge,22567.64,15979.61
+P00062,Electronics Item 062,Electronics,Laptops,Nova,54931.78,25399.09
+P00063,Electronics Item 063,Electronics,Accessories,AeroFit,8860.8,3824.75
+P00064,Electronics Item 064,Electronics,Audio,PureLiving,39551.79,25244.3
+P00065,Electronics Item 065,Electronics,Smartphones,UrbanEdge,18071.34,6736.94
+P00066,Electronics Item 066,Electronics,Laptops,DailyFresh,21130.21,12066.55
+P00067,Electronics Item 067,Electronics,Accessories,Zenith,10548.9,6511.77
+P00068,Electronics Item 068,Electronics,Audio,Everday,13651.61,7458.26
+P00069,Electronics Item 069,Electronics,Smartphones,HomeNest,25747.94,14346.64
+P00070,Electronics Item 070,Electronics,Laptops,AeroFit,7475.72,3212.06
+P00071,Electronics Item 071,Electronics,Accessories,Everday,10154.38,6015.76
+P00072,Electronics Item 072,Electronics,Audio,HomeNest,64752.64,38262.93
+P00073,Electronics Item 073,Electronics,Smartphones,ActivePro,64014.67,29115.42
+P00074,Electronics Item 074,Electronics,Laptops,TechNova,56763.66,21278.47
+P00075,Electronics Item 075,Electronics,Accessories,Nova,7106.6,4196.93
+P00076,Electronics Item 076,Electronics,Audio,Everday,60418.05,24116.95
+P00077,Electronics Item 077,Electronics,Smartphones,Nova,50052.83,23877.25
+P00078,Electronics Item 078,Electronics,Laptops,HomeNest,58484.94,29369.06
+P00079,Electronics Item 079,Electronics,Accessories,GlowLab,43749.61,29409.51
+P00080,Electronics Item 080,Electronics,Audio,Zenith,1074.52,438.98
+P00081,Electronics Item 081,Electronics,Smartphones,HomeNest,59751.1,31529.1
+P00082,Electronics Item 082,Electronics,Laptops,TechNova,4709.13,1691.85
+P00083,Electronics Item 083,Electronics,Accessories,TechNova,61995.25,39737.37
+P00084,Electronics Item 084,Electronics,Audio,GlowLab,14690.09,6430.1
+P00085,Electronics Item 085,Electronics,Smartphones,DailyFresh,36636.47,16734.61
+P00086,Electronics Item 086,Electronics,Laptops,Zenith,21707.6,12020.2
+P00087,Electronics Item 087,Electronics,Accessories,PureLiving,3080.36,1712.14
+P00088,Electronics Item 088,Electronics,Audio,AeroFit,811.33,475.49
+P00089,Electronics Item 089,Electronics,Smartphones,PureLiving,3786.98,2448.74
+P00090,Electronics Item 090,Electronics,Laptops,PureLiving,54602.26,32715.14
+P00091,Electronics Item 091,Electronics,Accessories,UrbanEdge,36721.3,18621.63
+P00092,Electronics Item 092,Electronics,Audio,DailyFresh,6115.12,3740.18
+P00093,Electronics Item 093,Electronics,Smartphones,Nova,2092.14,1124.1
+P00094,Electronics Item 094,Electronics,Laptops,AeroFit,42430.77,20238.78
+P00095,Electronics Item 095,Electronics,Accessories,PureLiving,29059.82,20097.04
+P00096,Electronics Item 096,Electronics,Audio,StyleCraft,43842.2,19472.11
+P00097,Electronics Item 097,Electronics,Smartphones,TechNova,55148.5,24858.22
+P00098,Electronics Item 098,Electronics,Laptops,Nova,7475.79,3853.05
+P00099,Electronics Item 099,Electronics,Accessories,HomeNest,41581.8,27035.11
+P00100,Electronics Item 100,Electronics,Audio,TechNova,37102.99,16180.12
+P00101,Electronics Item 101,Electronics,Smartphones,TechNova,35099.21,18816.43
+P00102,Electronics Item 102,Electronics,Laptops,PureLiving,29007.04,15831.06
+P00103,Electronics Item 103,Electronics,Accessories,TechNova,35849.75,23878.22
+P00104,Electronics Item 104,Electronics,Audio,DailyFresh,13895.55,5032.24
+P00105,Electronics Item 105,Electronics,Smartphones,AeroFit,48326.25,28406.77
+P00106,Electronics Item 106,Electronics,Laptops,Zenith,30746.96,21855.74
+P00107,Electronics Item 107,Electronics,Accessories,AeroFit,24414.04,13884.55
+P00108,Electronics Item 108,Electronics,Audio,AeroFit,28262.53,15698.72
+P00109,Electronics Item 109,Electronics,Smartphones,Nova,62843.36,25449.57
+P00110,Fashion Item 110,Fashion,Men Clothing,HomeNest,3108.97,1667.9
+P00111,Fashion Item 111,Fashion,Women Clothing,ActivePro,5064.08,3062.8
+P00112,Fashion Item 112,Fashion,Footwear,Everday,6913.43,3049.83
+P00113,Fashion Item 113,Fashion,Accessories,HomeNest,1660.01,1064.46
+P00114,Fashion Item 114,Fashion,Men Clothing,DailyFresh,1508.97,637.68
+P00115,Fashion Item 115,Fashion,Women Clothing,AeroFit,3029.22,1784.81
+P00116,Fashion Item 116,Fashion,Footwear,DailyFresh,6258.63,2511.62
+P00117,Fashion Item 117,Fashion,Accessories,TechNova,3940.6,1702.15
+P00118,Fashion Item 118,Fashion,Men Clothing,UrbanEdge,2336.44,1318.38
+P00119,Fashion Item 119,Fashion,Women Clothing,UrbanEdge,3995.43,2609.0
+P00120,Fashion Item 120,Fashion,Footwear,StyleCraft,1513.8,946.2
+P00121,Fashion Item 121,Fashion,Accessories,UrbanEdge,4752.39,2269.44
+P00122,Fashion Item 122,Fashion,Men Clothing,Nova,436.97,167.52
+P00123,Fashion Item 123,Fashion,Women Clothing,AeroFit,2165.56,1479.22
+P00124,Fashion Item 124,Fashion,Footwear,HomeNest,6283.07,3542.46
+P00125,Fashion Item 125,Fashion,Accessories,Everday,5211.49,2614.98
+P00126,Fashion Item 126,Fashion,Men Clothing,Everday,3776.37,2231.55
+P00127,Fashion Item 127,Fashion,Women Clothing,PureLiving,6463.77,2416.39
+P00128,Fashion Item 128,Fashion,Footwear,ActivePro,5062.41,2243.74
+P00129,Fashion Item 129,Fashion,Accessories,StyleCraft,1970.59,1197.39
+P00130,Fashion Item 130,Fashion,Men Clothing,TechNova,1324.79,617.84
+P00131,Fashion Item 131,Fashion,Women Clothing,ActivePro,5083.82,3377.65
+P00132,Fashion Item 132,Fashion,Footwear,UrbanEdge,3328.29,1886.53
+P00133,Fashion Item 133,Fashion,Accessories,DailyFresh,792.69,543.62
+P00134,Fashion Item 134,Fashion,Men Clothing,Everday,1533.03,912.69
+P00135,Fashion Item 135,Fashion,Women Clothing,Nova,5603.54,3158.48
+P00136,Fashion Item 136,Fashion,Footwear,UrbanEdge,5990.56,3219.83
+P00137,Fashion Item 137,Fashion,Accessories,Everday,6485.55,4475.73
+P00138,Fashion Item 138,Fashion,Men Clothing,Nova,6846.22,2791.19
+P00139,Fashion Item 139,Fashion,Women Clothing,AeroFit,3158.91,2149.63
+P00140,Fashion Item 140,Fashion,Footwear,StyleCraft,1326.8,628.36
+P00141,Fashion Item 141,Fashion,Accessories,Nova,5636.03,3234.12
+P00142,Fashion Item 142,Fashion,Men Clothing,AeroFit,4030.04,2861.62
+P00143,Fashion Item 143,Fashion,Women Clothing,AeroFit,1205.34,673.47
+P00144,Fashion Item 144,Fashion,Footwear,Everday,6353.03,2500.8
+P00145,Fashion Item 145,Fashion,Accessories,UrbanEdge,4580.15,2936.55
+P00146,Fashion Item 146,Fashion,Men Clothing,Zenith,317.08,164.03
+P00147,Fashion Item 147,Fashion,Women Clothing,Zenith,1028.59,628.8
+P00148,Fashion Item 148,Fashion,Footwear,UrbanEdge,6706.91,3920.97
+P00149,Fashion Item 149,Fashion,Accessories,AeroFit,941.05,461.29
+P00150,Fashion Item 150,Fashion,Men Clothing,HomeNest,1096.16,727.57
+P00151,Fashion Item 151,Fashion,Women Clothing,Zenith,1562.91,966.67
+P00152,Fashion Item 152,Fashion,Footwear,UrbanEdge,1106.12,555.07
+P00153,Fashion Item 153,Fashion,Accessories,StyleCraft,3729.68,2072.37
+P00154,Fashion Item 154,Fashion,Men Clothing,Nova,3491.11,2085.29
+P00155,Fashion Item 155,Fashion,Women Clothing,TechNova,1729.24,1027.29
+P00156,Fashion Item 156,Fashion,Footwear,AeroFit,490.28,192.6
+P00157,Fashion Item 157,Fashion,Accessories,StyleCraft,2163.97,789.03
+P00158,Fashion Item 158,Fashion,Men Clothing,UrbanEdge,6914.83,3586.25
+P00159,Fashion Item 159,Fashion,Women Clothing,TechNova,3852.37,1359.29
+P00160,Fashion Item 160,Fashion,Footwear,DailyFresh,5317.39,3285.02
+P00161,Fashion Item 161,Fashion,Accessories,ActivePro,6814.65,2730.61
+P00162,Fashion Item 162,Fashion,Men Clothing,Nova,5056.95,2387.52
+P00163,Fashion Item 163,Fashion,Women Clothing,AeroFit,680.47,260.25
+P00164,Fashion Item 164,Fashion,Footwear,DailyFresh,5903.84,3981.94
+P00165,Fashion Item 165,Fashion,Accessories,UrbanEdge,4549.01,2886.13
+P00166,Fashion Item 166,Fashion,Men Clothing,AeroFit,4513.23,2902.16
+P00167,Fashion Item 167,Fashion,Women Clothing,Nova,3698.62,1691.43
+P00168,Fashion Item 168,Fashion,Footwear,Everday,4328.25,2808.95
+P00169,Fashion Item 169,Fashion,Accessories,StyleCraft,6283.64,3117.65
+P00170,Fashion Item 170,Fashion,Men Clothing,Everday,4970.56,2273.4
+P00171,Fashion Item 171,Fashion,Women Clothing,StyleCraft,4633.31,2344.16
+P00172,Fashion Item 172,Fashion,Footwear,HomeNest,6461.6,4200.27
+P00173,Fashion Item 173,Fashion,Accessories,Everday,3601.42,1791.6
+P00174,Fashion Item 174,Fashion,Men Clothing,UrbanEdge,1186.08,445.2
+P00175,Fashion Item 175,Fashion,Women Clothing,StyleCraft,6368.95,2439.78
+P00176,Fashion Item 176,Fashion,Footwear,GlowLab,5087.51,1920.27
+P00177,Fashion Item 177,Fashion,Accessories,Everday,2924.12,1201.56
+P00178,Fashion Item 178,Fashion,Men Clothing,HomeNest,3851.46,2373.6
+P00179,Fashion Item 179,Fashion,Women Clothing,HomeNest,3538.53,2439.58
+P00180,Fashion Item 180,Fashion,Footwear,ActivePro,5698.47,4011.16
+P00181,Fashion Item 181,Fashion,Accessories,Nova,6520.99,2988.4
+P00182,Fashion Item 182,Fashion,Men Clothing,ActivePro,1426.74,883.14
+P00183,Fashion Item 183,Fashion,Women Clothing,UrbanEdge,5957.32,3503.74
+P00184,Fashion Item 184,Fashion,Footwear,ActivePro,5851.61,3579.15
+P00185,Fashion Item 185,Fashion,Accessories,HomeNest,4741.22,2467.22
+P00186,Fashion Item 186,Fashion,Men Clothing,Nova,478.46,183.81
+P00187,Fashion Item 187,Fashion,Women Clothing,ActivePro,3901.78,2684.0
+P00188,Fashion Item 188,Fashion,Footwear,Nova,3289.8,2003.45
+P00189,Fashion Item 189,Fashion,Accessories,GlowLab,1247.62,657.35
+P00190,Fashion Item 190,Fashion,Men Clothing,Zenith,4021.74,2372.58
+P00191,Fashion Item 191,Fashion,Women Clothing,StyleCraft,3894.31,2435.79
+P00192,Fashion Item 192,Fashion,Footwear,TechNova,5693.68,2637.78
+P00193,Fashion Item 193,Fashion,Accessories,Zenith,6473.83,2918.15
+P00194,Fashion Item 194,Fashion,Men Clothing,AeroFit,2352.16,1135.27
+P00195,Fashion Item 195,Fashion,Women Clothing,PureLiving,2389.28,1332.33
+P00196,Fashion Item 196,Fashion,Footwear,Zenith,6781.61,2584.22
+P00197,Fashion Item 197,Fashion,Accessories,StyleCraft,4394.37,2284.08
+P00198,Fashion Item 198,Fashion,Men Clothing,UrbanEdge,2833.46,1705.42
+P00199,Fashion Item 199,Fashion,Women Clothing,Nova,5281.75,2227.18
+P00200,Fashion Item 200,Fashion,Footwear,HomeNest,3081.7,1354.52
+P00201,Fashion Item 201,Fashion,Accessories,Everday,4817.21,3160.0
+P00202,Fashion Item 202,Fashion,Men Clothing,TechNova,6873.59,3367.37
+P00203,Fashion Item 203,Fashion,Women Clothing,Everday,6405.98,2595.55
+P00204,Fashion Item 204,Fashion,Footwear,ActivePro,5892.52,3112.18
+P00205,Fashion Item 205,Fashion,Accessories,AeroFit,5036.84,3414.01
+P00206,Fashion Item 206,Fashion,Men Clothing,PureLiving,5387.86,3529.65
+P00207,Fashion Item 207,Fashion,Women Clothing,TechNova,2416.16,1437.11
+P00208,Fashion Item 208,Fashion,Footwear,Everday,5472.42,3654.41
+P00209,Fashion Item 209,Fashion,Accessories,Everday,1085.54,715.69
+P00210,Fashion Item 210,Fashion,Men Clothing,AeroFit,6473.38,4076.64
+P00211,Fashion Item 211,Fashion,Women Clothing,GlowLab,3505.59,1907.95
+P00212,Fashion Item 212,Fashion,Footwear,DailyFresh,2931.78,1986.82
+P00213,Fashion Item 213,Fashion,Accessories,Nova,4079.04,2179.99
+P00214,Fashion Item 214,Fashion,Men Clothing,AeroFit,6551.58,3779.64
+P00215,Fashion Item 215,Fashion,Women Clothing,GlowLab,1795.61,937.84
+P00216,Fashion Item 216,Fashion,Footwear,TechNova,2345.23,1459.74
+P00217,Fashion Item 217,Fashion,Accessories,Nova,2060.94,1057.65
+P00218,Fashion Item 218,Fashion,Men Clothing,GlowLab,3401.32,1903.74
+P00219,Home & Kitchen Item 219,Home & Kitchen,Kitchenware,PureLiving,20546.42,9383.14
+P00220,Home & Kitchen Item 220,Home & Kitchen,Furniture,UrbanEdge,23219.18,15925.24
+P00221,Home & Kitchen Item 221,Home & Kitchen,Home Decor,PureLiving,1483.01,1031.46
+P00222,Home & Kitchen Item 222,Home & Kitchen,Appliances,Nova,4566.04,3252.56
+P00223,Home & Kitchen Item 223,Home & Kitchen,Kitchenware,Nova,24872.43,9648.87
+P00224,Home & Kitchen Item 224,Home & Kitchen,Furniture,UrbanEdge,29322.31,13027.45
+P00225,Home & Kitchen Item 225,Home & Kitchen,Home Decor,DailyFresh,16229.22,9287.16
+P00226,Home & Kitchen Item 226,Home & Kitchen,Appliances,HomeNest,25224.85,14959.76
+P00227,Home & Kitchen Item 227,Home & Kitchen,Kitchenware,Zenith,1541.51,916.55
+P00228,Home & Kitchen Item 228,Home & Kitchen,Furniture,StyleCraft,6146.81,3884.68
+P00229,Home & Kitchen Item 229,Home & Kitchen,Home Decor,UrbanEdge,18862.77,13236.11
+P00230,Home & Kitchen Item 230,Home & Kitchen,Appliances,Nova,13450.55,5864.17
+P00231,Home & Kitchen Item 231,Home & Kitchen,Kitchenware,DailyFresh,2723.0,1263.13
+P00232,Home & Kitchen Item 232,Home & Kitchen,Furniture,AeroFit,9043.9,5819.61
+P00233,Home & Kitchen Item 233,Home & Kitchen,Home Decor,TechNova,19430.75,11891.37
+P00234,Home & Kitchen Item 234,Home & Kitchen,Appliances,UrbanEdge,21745.94,11748.88
+P00235,Home & Kitchen Item 235,Home & Kitchen,Kitchenware,HomeNest,29873.65,11101.9
+P00236,Home & Kitchen Item 236,Home & Kitchen,Furniture,DailyFresh,1009.87,473.23
+P00237,Home & Kitchen Item 237,Home & Kitchen,Home Decor,DailyFresh,15012.85,8397.37
+P00238,Home & Kitchen Item 238,Home & Kitchen,Appliances,Nova,27040.99,17437.09
+P00239,Home & Kitchen Item 239,Home & Kitchen,Kitchenware,ActivePro,20223.19,12542.65
+P00240,Home & Kitchen Item 240,Home & Kitchen,Furniture,StyleCraft,14902.06,7431.15
+P00241,Home & Kitchen Item 241,Home & Kitchen,Home Decor,Zenith,9303.67,5191.45
+P00242,Home & Kitchen Item 242,Home & Kitchen,Appliances,UrbanEdge,14254.66,5616.25
+P00243,Home & Kitchen Item 243,Home & Kitchen,Kitchenware,TechNova,8157.85,3626.76
+P00244,Home & Kitchen Item 244,Home & Kitchen,Furniture,ActivePro,12857.72,5267.6
+P00245,Home & Kitchen Item 245,Home & Kitchen,Home Decor,Nova,5219.92,1955.74
+P00246,Home & Kitchen Item 246,Home & Kitchen,Appliances,ActivePro,8658.03,6172.42
+P00247,Home & Kitchen Item 247,Home & Kitchen,Kitchenware,GlowLab,14355.4,8427.94
+P00248,Home & Kitchen Item 248,Home & Kitchen,Furniture,StyleCraft,6004.74,2922.25
+P00249,Home & Kitchen Item 249,Home & Kitchen,Home Decor,StyleCraft,12111.09,5287.39
+P00250,Home & Kitchen Item 250,Home & Kitchen,Appliances,HomeNest,18294.9,7137.5
+P00251,Home & Kitchen Item 251,Home & Kitchen,Kitchenware,TechNova,4004.99,2067.6
+P00252,Home & Kitchen Item 252,Home & Kitchen,Furniture,TechNova,18416.21,6629.38
+P00253,Home & Kitchen Item 253,Home & Kitchen,Home Decor,Zenith,21191.73,11526.86
+P00254,Home & Kitchen Item 254,Home & Kitchen,Appliances,Zenith,25249.08,12570.89
+P00255,Home & Kitchen Item 255,Home & Kitchen,Kitchenware,HomeNest,2505.89,1290.93
+P00256,Home & Kitchen Item 256,Home & Kitchen,Furniture,AeroFit,25986.3,12313.48
+P00257,Home & Kitchen Item 257,Home & Kitchen,Home Decor,AeroFit,9555.76,4231.84
+P00258,Home & Kitchen Item 258,Home & Kitchen,Appliances,Zenith,19327.03,9100.22
+P00259,Home & Kitchen Item 259,Home & Kitchen,Kitchenware,UrbanEdge,28550.96,17640.42
+P00260,Home & Kitchen Item 260,Home & Kitchen,Furniture,HomeNest,16569.41,11799.44
+P00261,Home & Kitchen Item 261,Home & Kitchen,Home Decor,HomeNest,29822.58,11579.47
+P00262,Home & Kitchen Item 262,Home & Kitchen,Appliances,ActivePro,14149.86,9426.21
+P00263,Home & Kitchen Item 263,Home & Kitchen,Kitchenware,HomeNest,19208.73,12404.34
+P00264,Home & Kitchen Item 264,Home & Kitchen,Furniture,Zenith,9491.87,4007.22
+P00265,Home & Kitchen Item 265,Home & Kitchen,Home Decor,AeroFit,9778.53,5163.01
+P00266,Home & Kitchen Item 266,Home & Kitchen,Appliances,PureLiving,1458.87,911.38
+P00267,Home & Kitchen Item 267,Home & Kitchen,Kitchenware,Zenith,1484.2,773.34
+P00268,Home & Kitchen Item 268,Home & Kitchen,Furniture,AeroFit,15165.35,6088.34
+P00269,Home & Kitchen Item 269,Home & Kitchen,Home Decor,AeroFit,22471.54,13667.71
+P00270,Home & Kitchen Item 270,Home & Kitchen,Appliances,Zenith,28539.46,12707.91
+P00271,Home & Kitchen Item 271,Home & Kitchen,Kitchenware,TechNova,4947.79,3052.6
+P00272,Home & Kitchen Item 272,Home & Kitchen,Furniture,Nova,4988.9,3477.9
+P00273,Home & Kitchen Item 273,Home & Kitchen,Home Decor,DailyFresh,18010.76,9200.59
+P00274,Home & Kitchen Item 274,Home & Kitchen,Appliances,ActivePro,22085.15,11355.1
+P00275,Home & Kitchen Item 275,Home & Kitchen,Kitchenware,UrbanEdge,16232.1,7111.56
+P00276,Home & Kitchen Item 276,Home & Kitchen,Furniture,ActivePro,26552.61,16330.67
+P00277,Home & Kitchen Item 277,Home & Kitchen,Home Decor,Zenith,22434.22,8600.09
+P00278,Home & Kitchen Item 278,Home & Kitchen,Appliances,HomeNest,2324.77,1370.21
+P00279,Home & Kitchen Item 279,Home & Kitchen,Kitchenware,Zenith,4627.57,3265.16
+P00280,Home & Kitchen Item 280,Home & Kitchen,Furniture,Everday,1020.93,631.21
+P00281,Home & Kitchen Item 281,Home & Kitchen,Home Decor,AeroFit,7934.05,3482.37
+P00282,Home & Kitchen Item 282,Home & Kitchen,Appliances,AeroFit,24941.79,16977.59
+P00283,Home & Kitchen Item 283,Home & Kitchen,Kitchenware,ActivePro,1355.99,699.72
+P00284,Home & Kitchen Item 284,Home & Kitchen,Furniture,DailyFresh,15726.39,6014.23
+P00285,Home & Kitchen Item 285,Home & Kitchen,Home Decor,PureLiving,24926.34,12439.74
+P00286,Home & Kitchen Item 286,Home & Kitchen,Appliances,Everday,25738.44,15449.53
+P00287,Home & Kitchen Item 287,Home & Kitchen,Kitchenware,ActivePro,17813.55,9352.49
+P00288,Home & Kitchen Item 288,Home & Kitchen,Furniture,ActivePro,16499.32,7451.53
+P00289,Home & Kitchen Item 289,Home & Kitchen,Home Decor,TechNova,21408.72,9419.19
+P00290,Home & Kitchen Item 290,Home & Kitchen,Appliances,UrbanEdge,14475.64,7130.2
+P00291,Home & Kitchen Item 291,Home & Kitchen,Kitchenware,ActivePro,7301.41,4881.23
+P00292,Home & Kitchen Item 292,Home & Kitchen,Furniture,HomeNest,17787.14,8709.21
+P00293,Home & Kitchen Item 293,Home & Kitchen,Home Decor,AeroFit,25396.55,9930.77
+P00294,Home & Kitchen Item 294,Home & Kitchen,Appliances,ActivePro,17083.48,7910.96
+P00295,Home & Kitchen Item 295,Home & Kitchen,Kitchenware,HomeNest,16293.92,5754.16
+P00296,Home & Kitchen Item 296,Home & Kitchen,Furniture,PureLiving,15479.99,7088.92
+P00297,Home & Kitchen Item 297,Home & Kitchen,Home Decor,TechNova,16090.23,10498.87
+P00298,Home & Kitchen Item 298,Home & Kitchen,Appliances,UrbanEdge,16378.5,7011.53
+P00299,Home & Kitchen Item 299,Home & Kitchen,Kitchenware,Everday,23125.09,13166.15
+P00300,Home & Kitchen Item 300,Home & Kitchen,Furniture,Nova,15127.58,5516.55
+P00301,Home & Kitchen Item 301,Home & Kitchen,Home Decor,ActivePro,7603.71,4721.78
+P00302,Home & Kitchen Item 302,Home & Kitchen,Appliances,Nova,21217.26,8127.06
+P00303,Home & Kitchen Item 303,Home & Kitchen,Kitchenware,GlowLab,3409.83,1446.84
+P00304,Home & Kitchen Item 304,Home & Kitchen,Furniture,Zenith,9214.28,5557.9
+P00305,Home & Kitchen Item 305,Home & Kitchen,Home Decor,Zenith,1962.59,703.61
+P00306,Home & Kitchen Item 306,Home & Kitchen,Appliances,Everday,25496.9,12328.65
+P00307,Home & Kitchen Item 307,Home & Kitchen,Kitchenware,UrbanEdge,4628.69,3286.14
+P00308,Home & Kitchen Item 308,Home & Kitchen,Furniture,AeroFit,15939.99,5928.62
+P00309,Home & Kitchen Item 309,Home & Kitchen,Home Decor,UrbanEdge,28255.02,10460.98
+P00310,Home & Kitchen Item 310,Home & Kitchen,Appliances,UrbanEdge,1505.96,987.52
+P00311,Home & Kitchen Item 311,Home & Kitchen,Kitchenware,AeroFit,4717.62,3299.14
+P00312,Home & Kitchen Item 312,Home & Kitchen,Furniture,HomeNest,18406.59,8386.14
+P00313,Home & Kitchen Item 313,Home & Kitchen,Home Decor,Zenith,17655.67,9408.32
+P00314,Home & Kitchen Item 314,Home & Kitchen,Appliances,HomeNest,10138.48,5884.09
+P00315,Home & Kitchen Item 315,Home & Kitchen,Kitchenware,Nova,22800.44,9194.23
+P00316,Home & Kitchen Item 316,Home & Kitchen,Furniture,AeroFit,10768.86,6789.95
+P00317,Home & Kitchen Item 317,Home & Kitchen,Home Decor,Zenith,23644.39,16801.51
+P00318,Home & Kitchen Item 318,Home & Kitchen,Appliances,ActivePro,24769.77,17546.21
+P00319,Home & Kitchen Item 319,Home & Kitchen,Kitchenware,AeroFit,18859.75,10844.97
+P00320,Home & Kitchen Item 320,Home & Kitchen,Furniture,HomeNest,6055.35,2310.54
+P00321,Home & Kitchen Item 321,Home & Kitchen,Home Decor,DailyFresh,9144.54,5599.1
+P00322,Home & Kitchen Item 322,Home & Kitchen,Appliances,AeroFit,10987.84,3858.54
+P00323,Home & Kitchen Item 323,Home & Kitchen,Kitchenware,Nova,27520.7,11778.32
+P00324,Home & Kitchen Item 324,Home & Kitchen,Furniture,StyleCraft,7680.79,3041.07
+P00325,Home & Kitchen Item 325,Home & Kitchen,Home Decor,Zenith,27210.42,18993.95
+P00326,Home & Kitchen Item 326,Home & Kitchen,Appliances,HomeNest,8039.69,5191.41
+P00327,Home & Kitchen Item 327,Home & Kitchen,Kitchenware,GlowLab,462.0,224.81
+P00328,Grocery Item 328,Grocery,Packaged Food,GlowLab,515.19,369.44
+P00329,Grocery Item 329,Grocery,Beverages,TechNova,1086.88,683.0
+P00330,Grocery Item 330,Grocery,Personal Care,DailyFresh,211.76,146.66
+P00331,Grocery Item 331,Grocery,Household,GlowLab,651.05,293.59
+P00332,Grocery Item 332,Grocery,Packaged Food,HomeNest,249.62,173.31
+P00333,Grocery Item 333,Grocery,Beverages,StyleCraft,472.72,307.63
+P00334,Grocery Item 334,Grocery,Personal Care,UrbanEdge,335.62,129.16
+P00335,Grocery Item 335,Grocery,Household,PureLiving,1009.22,664.06
+P00336,Grocery Item 336,Grocery,Packaged Food,Nova,852.81,376.36
+P00337,Grocery Item 337,Grocery,Beverages,PureLiving,720.92,394.46
+P00338,Grocery Item 338,Grocery,Personal Care,DailyFresh,866.03,550.38
+P00339,Grocery Item 339,Grocery,Household,UrbanEdge,709.81,266.62
+P00340,Grocery Item 340,Grocery,Packaged Food,ActivePro,1383.59,579.22
+P00341,Grocery Item 341,Grocery,Beverages,StyleCraft,1258.13,489.09
+P00342,Grocery Item 342,Grocery,Personal Care,GlowLab,552.51,381.11
+P00343,Grocery Item 343,Grocery,Household,UrbanEdge,1255.38,615.82
+P00344,Grocery Item 344,Grocery,Packaged Food,PureLiving,891.41,388.55
+P00345,Grocery Item 345,Grocery,Beverages,StyleCraft,978.81,642.82
+P00346,Grocery Item 346,Grocery,Personal Care,DailyFresh,1062.66,523.74
+P00347,Grocery Item 347,Grocery,Household,ActivePro,996.03,405.97
+P00348,Grocery Item 348,Grocery,Packaged Food,DailyFresh,368.07,165.82
+P00349,Grocery Item 349,Grocery,Beverages,GlowLab,355.39,221.65
+P00350,Grocery Item 350,Grocery,Personal Care,PureLiving,696.57,498.38
+P00351,Grocery Item 351,Grocery,Household,PureLiving,1338.71,696.62
+P00352,Grocery Item 352,Grocery,Packaged Food,UrbanEdge,1364.55,588.8
+P00353,Grocery Item 353,Grocery,Beverages,UrbanEdge,580.03,369.56
+P00354,Grocery Item 354,Grocery,Personal Care,Everday,1251.84,845.5
+P00355,Grocery Item 355,Grocery,Household,DailyFresh,273.34,176.86
+P00356,Grocery Item 356,Grocery,Packaged Food,PureLiving,355.19,130.01
+P00357,Grocery Item 357,Grocery,Beverages,Nova,283.97,172.34
+P00358,Grocery Item 358,Grocery,Personal Care,PureLiving,1339.75,626.03
+P00359,Grocery Item 359,Grocery,Household,StyleCraft,940.18,654.35
+P00360,Grocery Item 360,Grocery,Packaged Food,Nova,840.65,527.01
+P00361,Grocery Item 361,Grocery,Beverages,DailyFresh,440.05,164.25
+P00362,Grocery Item 362,Grocery,Personal Care,Nova,1225.7,497.9
+P00363,Grocery Item 363,Grocery,Household,Nova,1239.52,682.07
+P00364,Grocery Item 364,Grocery,Packaged Food,DailyFresh,407.64,150.23
+P00365,Grocery Item 365,Grocery,Beverages,AeroFit,822.57,420.33
+P00366,Grocery Item 366,Grocery,Personal Care,AeroFit,910.31,424.25
+P00367,Grocery Item 367,Grocery,Household,Zenith,854.43,327.36
+P00368,Grocery Item 368,Grocery,Packaged Food,StyleCraft,538.14,206.26
+P00369,Grocery Item 369,Grocery,Beverages,GlowLab,30.26,17.22
+P00370,Grocery Item 370,Grocery,Personal Care,Nova,144.77,97.19
+P00371,Grocery Item 371,Grocery,Household,HomeNest,1143.98,643.03
+P00372,Grocery Item 372,Grocery,Packaged Food,Nova,35.17,13.73
+P00373,Grocery Item 373,Grocery,Beverages,Nova,1482.61,533.84
+P00374,Grocery Item 374,Grocery,Personal Care,GlowLab,1278.47,881.4
+P00375,Grocery Item 375,Grocery,Household,Everday,831.61,531.1
+P00376,Grocery Item 376,Grocery,Packaged Food,PureLiving,1107.31,590.17
+P00377,Grocery Item 377,Grocery,Beverages,UrbanEdge,1252.37,558.58
+P00378,Grocery Item 378,Grocery,Personal Care,TechNova,26.02,12.56
+P00379,Grocery Item 379,Grocery,Household,StyleCraft,142.23,74.47
+P00380,Grocery Item 380,Grocery,Packaged Food,Nova,1416.64,551.13
+P00381,Grocery Item 381,Grocery,Beverages,StyleCraft,425.15,212.01
+P00382,Grocery Item 382,Grocery,Personal Care,ActivePro,1143.03,629.43
+P00383,Grocery Item 383,Grocery,Household,HomeNest,913.82,438.95
+P00384,Grocery Item 384,Grocery,Packaged Food,UrbanEdge,940.2,338.38
+P00385,Grocery Item 385,Grocery,Beverages,TechNova,298.72,179.11
+P00386,Grocery Item 386,Grocery,Personal Care,AeroFit,774.19,476.85
+P00387,Grocery Item 387,Grocery,Household,ActivePro,1095.76,749.1
+P00388,Grocery Item 388,Grocery,Packaged Food,Nova,1239.84,558.29
+P00389,Grocery Item 389,Grocery,Beverages,UrbanEdge,737.1,505.25
+P00390,Grocery Item 390,Grocery,Personal Care,DailyFresh,586.57,291.26
+P00391,Grocery Item 391,Grocery,Household,GlowLab,1369.63,549.24
+P00392,Grocery Item 392,Grocery,Packaged Food,StyleCraft,946.5,609.49
+P00393,Grocery Item 393,Grocery,Beverages,ActivePro,520.0,302.6
+P00394,Grocery Item 394,Grocery,Personal Care,TechNova,775.42,558.05
+P00395,Grocery Item 395,Grocery,Household,ActivePro,770.05,495.63
+P00396,Grocery Item 396,Grocery,Packaged Food,StyleCraft,222.14,81.36
+P00397,Grocery Item 397,Grocery,Beverages,AeroFit,1460.02,723.46
+P00398,Grocery Item 398,Grocery,Personal Care,PureLiving,46.15,18.99
+P00399,Grocery Item 399,Grocery,Household,ActivePro,34.43,19.12
+P00400,Grocery Item 400,Grocery,Packaged Food,AeroFit,257.66,151.18
+P00401,Grocery Item 401,Grocery,Beverages,TechNova,1432.28,942.83
+P00402,Grocery Item 402,Grocery,Personal Care,Everday,676.95,374.04
+P00403,Grocery Item 403,Grocery,Household,Zenith,764.89,509.52
+P00404,Grocery Item 404,Grocery,Packaged Food,UrbanEdge,1020.17,597.86
+P00405,Grocery Item 405,Grocery,Beverages,DailyFresh,346.09,232.93
+P00406,Grocery Item 406,Grocery,Personal Care,UrbanEdge,285.53,107.72
+P00407,Grocery Item 407,Grocery,Household,DailyFresh,945.9,372.93
+P00408,Grocery Item 408,Grocery,Packaged Food,PureLiving,326.15,209.34
+P00409,Grocery Item 409,Grocery,Beverages,StyleCraft,1395.79,897.55
+P00410,Grocery Item 410,Grocery,Personal Care,GlowLab,492.71,300.65
+P00411,Grocery Item 411,Grocery,Household,GlowLab,844.69,538.14
+P00412,Grocery Item 412,Grocery,Packaged Food,Zenith,440.52,178.54
+P00413,Grocery Item 413,Grocery,Beverages,Everday,1215.33,730.71
+P00414,Grocery Item 414,Grocery,Personal Care,Nova,724.35,273.7
+P00415,Grocery Item 415,Grocery,Household,Zenith,1039.07,694.35
+P00416,Grocery Item 416,Grocery,Packaged Food,GlowLab,328.78,115.35
+P00417,Grocery Item 417,Grocery,Beverages,StyleCraft,213.12,126.02
+P00418,Grocery Item 418,Grocery,Personal Care,DailyFresh,556.71,219.21
+P00419,Grocery Item 419,Grocery,Household,PureLiving,1472.73,708.96
+P00420,Grocery Item 420,Grocery,Packaged Food,UrbanEdge,1317.37,779.18
+P00421,Grocery Item 421,Grocery,Beverages,AeroFit,493.3,264.12
+P00422,Grocery Item 422,Grocery,Personal Care,Everday,32.0,11.27
+P00423,Grocery Item 423,Grocery,Household,UrbanEdge,1412.69,918.9
+P00424,Grocery Item 424,Grocery,Packaged Food,DailyFresh,84.47,34.16
+P00425,Grocery Item 425,Grocery,Beverages,Nova,1288.03,475.56
+P00426,Grocery Item 426,Grocery,Personal Care,Everday,268.1,165.55
+P00427,Grocery Item 427,Grocery,Household,AeroFit,803.66,339.11
+P00428,Grocery Item 428,Grocery,Packaged Food,AeroFit,1419.24,587.2
+P00429,Grocery Item 429,Grocery,Beverages,StyleCraft,412.57,165.55
+P00430,Grocery Item 430,Grocery,Personal Care,DailyFresh,813.62,387.52
+P00431,Grocery Item 431,Grocery,Household,HomeNest,919.61,361.48
+P00432,Grocery Item 432,Grocery,Packaged Food,AeroFit,1311.44,706.3
+P00433,Grocery Item 433,Grocery,Beverages,ActivePro,496.34,283.51
+P00434,Grocery Item 434,Grocery,Personal Care,Nova,1178.11,695.7
+P00435,Grocery Item 435,Grocery,Household,HomeNest,1185.82,841.37
+P00436,Grocery Item 436,Grocery,Packaged Food,UrbanEdge,332.77,149.32
+P00437,Sports Item 437,Sports,Fitness,GlowLab,7782.48,3997.91
+P00438,Sports Item 438,Sports,Outdoor,Nova,3096.73,1942.07
+P00439,Sports Item 439,Sports,Sportswear,PureLiving,11414.75,5776.13
+P00440,Sports Item 440,Sports,Equipment,StyleCraft,4791.46,3143.97
+P00441,Sports Item 441,Sports,Fitness,HomeNest,7704.99,3020.13
+P00442,Sports Item 442,Sports,Outdoor,GlowLab,3432.07,1659.0
+P00443,Sports Item 443,Sports,Sportswear,GlowLab,10543.02,7563.12
+P00444,Sports Item 444,Sports,Equipment,Zenith,6526.0,3378.42
+P00445,Sports Item 445,Sports,Fitness,AeroFit,11537.7,6345.64
+P00446,Sports Item 446,Sports,Outdoor,DailyFresh,10219.86,4470.29
+P00447,Sports Item 447,Sports,Sportswear,Zenith,4337.93,2445.48
+P00448,Sports Item 448,Sports,Equipment,AeroFit,4202.15,1794.41
+P00449,Sports Item 449,Sports,Fitness,StyleCraft,2412.72,1635.36
+P00450,Sports Item 450,Sports,Outdoor,ActivePro,13589.88,8887.84
+P00451,Sports Item 451,Sports,Sportswear,Nova,2231.88,1193.37
+P00452,Sports Item 452,Sports,Equipment,UrbanEdge,7917.12,4917.68
+P00453,Sports Item 453,Sports,Fitness,DailyFresh,3498.64,1625.73
+P00454,Sports Item 454,Sports,Outdoor,Everday,8751.57,5861.44
+P00455,Sports Item 455,Sports,Sportswear,HomeNest,7947.03,4983.9
+P00456,Sports Item 456,Sports,Equipment,ActivePro,11892.31,7731.05
+P00457,Sports Item 457,Sports,Fitness,AeroFit,6008.45,3889.24
+P00458,Sports Item 458,Sports,Outdoor,AeroFit,8779.71,5047.05
+P00459,Sports Item 459,Sports,Sportswear,AeroFit,6296.38,3268.23
+P00460,Sports Item 460,Sports,Equipment,HomeNest,14550.77,6658.73
+P00461,Sports Item 461,Sports,Fitness,GlowLab,4225.72,2231.34
+P00462,Sports Item 462,Sports,Outdoor,UrbanEdge,4470.25,2701.08
+P00463,Sports Item 463,Sports,Sportswear,Nova,2199.84,820.29
+P00464,Sports Item 464,Sports,Equipment,HomeNest,813.77,529.95
+P00465,Sports Item 465,Sports,Fitness,PureLiving,13607.0,9118.19
+P00466,Sports Item 466,Sports,Outdoor,ActivePro,1481.62,1010.92
+P00467,Sports Item 467,Sports,Sportswear,ActivePro,7097.39,4101.09
+P00468,Sports Item 468,Sports,Equipment,ActivePro,5378.07,2409.24
+P00469,Sports Item 469,Sports,Fitness,TechNova,1948.33,1038.11
+P00470,Sports Item 470,Sports,Outdoor,AeroFit,14750.1,5366.05
+P00471,Sports Item 471,Sports,Sportswear,ActivePro,8934.21,3202.66
+P00472,Sports Item 472,Sports,Equipment,TechNova,5080.19,2573.03
+P00473,Sports Item 473,Sports,Fitness,AeroFit,7515.19,2725.14
+P00474,Sports Item 474,Sports,Outdoor,HomeNest,4548.88,2999.78
+P00475,Sports Item 475,Sports,Sportswear,HomeNest,12156.3,7161.65
+P00476,Sports Item 476,Sports,Equipment,HomeNest,13869.98,5737.73
+P00477,Sports Item 477,Sports,Fitness,GlowLab,2104.41,870.79
+P00478,Sports Item 478,Sports,Outdoor,Nova,12246.5,7974.63
+P00479,Sports Item 479,Sports,Sportswear,TechNova,8198.69,5316.92
+P00480,Sports Item 480,Sports,Equipment,AeroFit,3086.23,1239.88
+P00481,Sports Item 481,Sports,Fitness,TechNova,1520.31,934.22
+P00482,Sports Item 482,Sports,Outdoor,Zenith,9443.88,5847.3
+P00483,Sports Item 483,Sports,Sportswear,StyleCraft,2323.48,1513.1
+P00484,Sports Item 484,Sports,Equipment,AeroFit,13768.13,7432.66
+P00485,Sports Item 485,Sports,Fitness,DailyFresh,2006.51,995.55
+P00486,Sports Item 486,Sports,Outdoor,Everday,4921.12,1940.87
+P00487,Sports Item 487,Sports,Sportswear,UrbanEdge,386.92,223.1
+P00488,Sports Item 488,Sports,Equipment,StyleCraft,3666.77,1503.14
+P00489,Sports Item 489,Sports,Fitness,Everday,8014.53,3705.53
+P00490,Sports Item 490,Sports,Outdoor,GlowLab,3429.85,2290.94
+P00491,Sports Item 491,Sports,Sportswear,StyleCraft,14760.65,8979.03
+P00492,Sports Item 492,Sports,Equipment,AeroFit,13010.1,4683.2
+P00493,Sports Item 493,Sports,Fitness,HomeNest,13639.36,7583.45
+P00494,Sports Item 494,Sports,Outdoor,GlowLab,8190.13,3602.7
+P00495,Sports Item 495,Sports,Sportswear,StyleCraft,11777.17,4539.43
+P00496,Sports Item 496,Sports,Equipment,PureLiving,8529.32,6005.49
+P00497,Sports Item 497,Sports,Fitness,AeroFit,13093.13,5545.16
+P00498,Sports Item 498,Sports,Outdoor,StyleCraft,5338.9,2165.63
+P00499,Sports Item 499,Sports,Sportswear,StyleCraft,12364.57,8492.39
+P00500,Sports Item 500,Sports,Equipment,ActivePro,1138.25,804.68
+P00501,Sports Item 501,Sports,Fitness,AeroFit,14503.12,9807.69
+P00502,Sports Item 502,Sports,Outdoor,PureLiving,6688.88,3116.75
+P00503,Sports Item 503,Sports,Sportswear,TechNova,2484.65,908.24
+P00504,Sports Item 504,Sports,Equipment,Nova,10435.19,4951.84
+P00505,Sports Item 505,Sports,Fitness,HomeNest,1000.11,596.22
+P00506,Sports Item 506,Sports,Outdoor,UrbanEdge,14092.47,7059.65
+P00507,Sports Item 507,Sports,Sportswear,GlowLab,11709.33,7166.94
+P00508,Sports Item 508,Sports,Equipment,Everday,10900.5,6299.22
+P00509,Sports Item 509,Sports,Fitness,PureLiving,14669.61,9384.23
+P00510,Sports Item 510,Sports,Outdoor,DailyFresh,6343.16,2584.87
+P00511,Sports Item 511,Sports,Sportswear,Everday,11142.71,7460.4
+P00512,Sports Item 512,Sports,Equipment,ActivePro,13843.8,8660.92
+P00513,Sports Item 513,Sports,Fitness,DailyFresh,8008.75,3424.06
+P00514,Sports Item 514,Sports,Outdoor,Everday,1344.18,685.13
+P00515,Sports Item 515,Sports,Sportswear,Nova,8816.84,5745.99
+P00516,Sports Item 516,Sports,Equipment,PureLiving,596.0,385.47
+P00517,Sports Item 517,Sports,Fitness,HomeNest,9081.9,4347.71
+P00518,Sports Item 518,Sports,Outdoor,Everday,9331.28,5912.51
+P00519,Sports Item 519,Sports,Sportswear,ActivePro,7842.65,2889.44
+P00520,Sports Item 520,Sports,Equipment,UrbanEdge,1848.73,985.59
+P00521,Sports Item 521,Sports,Fitness,AeroFit,9666.21,5932.92
+P00522,Sports Item 522,Sports,Outdoor,TechNova,777.12,311.19
+P00523,Sports Item 523,Sports,Sportswear,ActivePro,11464.87,6991.84
+P00524,Sports Item 524,Sports,Equipment,ActivePro,11232.36,7935.36
+P00525,Sports Item 525,Sports,Fitness,GlowLab,14174.44,6635.82
+P00526,Sports Item 526,Sports,Outdoor,StyleCraft,408.83,238.63
+P00527,Sports Item 527,Sports,Sportswear,UrbanEdge,6583.3,2828.48
+P00528,Sports Item 528,Sports,Equipment,UrbanEdge,14060.63,5265.74
+P00529,Sports Item 529,Sports,Fitness,StyleCraft,11854.57,7168.32
+P00530,Sports Item 530,Sports,Outdoor,Zenith,1107.86,734.47
+P00531,Sports Item 531,Sports,Sportswear,PureLiving,9868.68,5753.17
+P00532,Sports Item 532,Sports,Equipment,DailyFresh,2220.83,1358.77
+P00533,Sports Item 533,Sports,Fitness,GlowLab,13564.34,9525.95
+P00534,Sports Item 534,Sports,Outdoor,TechNova,6683.81,4460.11
+P00535,Sports Item 535,Sports,Sportswear,UrbanEdge,11650.0,8011.49
+P00536,Sports Item 536,Sports,Equipment,UrbanEdge,13674.33,6564.0
+P00537,Sports Item 537,Sports,Fitness,PureLiving,11942.9,4314.32
+P00538,Sports Item 538,Sports,Outdoor,HomeNest,3277.47,1734.03
+P00539,Sports Item 539,Sports,Sportswear,StyleCraft,1054.96,740.23
+P00540,Sports Item 540,Sports,Equipment,UrbanEdge,7508.85,4914.9
+P00541,Sports Item 541,Sports,Fitness,ActivePro,3258.02,2081.23
+P00542,Sports Item 542,Sports,Outdoor,UrbanEdge,5362.74,2789.31
+P00543,Sports Item 543,Sports,Sportswear,ActivePro,14883.51,7814.79
+P00544,Sports Item 544,Sports,Equipment,DailyFresh,9595.21,3674.54
+P00545,Sports Item 545,Sports,Fitness,PureLiving,10803.2,4480.69
+P00546,Beauty Item 546,Beauty,Skincare,GlowLab,3501.28,1822.23
+P00547,Beauty Item 547,Beauty,Haircare,AeroFit,5161.82,3267.82
+P00548,Beauty Item 548,Beauty,Makeup,Everday,3121.36,2212.33
+P00549,Beauty Item 549,Beauty,Fragrance,Everday,6347.57,2495.46
+P00550,Beauty Item 550,Beauty,Skincare,Nova,1822.29,694.1
+P00551,Beauty Item 551,Beauty,Haircare,AeroFit,3934.88,2793.7
+P00552,Beauty Item 552,Beauty,Makeup,AeroFit,3834.62,1643.12
+P00553,Beauty Item 553,Beauty,Fragrance,HomeNest,7768.77,2929.08
+P00554,Beauty Item 554,Beauty,Skincare,TechNova,738.91,443.24
+P00555,Beauty Item 555,Beauty,Haircare,HomeNest,4008.89,2663.4
+P00556,Beauty Item 556,Beauty,Makeup,StyleCraft,5482.93,3667.32
+P00557,Beauty Item 557,Beauty,Fragrance,TechNova,5967.24,2385.93
+P00558,Beauty Item 558,Beauty,Skincare,PureLiving,3914.34,1997.27
+P00559,Beauty Item 559,Beauty,Haircare,GlowLab,4371.49,2533.55
+P00560,Beauty Item 560,Beauty,Makeup,AeroFit,3200.4,1780.44
+P00561,Beauty Item 561,Beauty,Fragrance,UrbanEdge,3219.51,1571.65
+P00562,Beauty Item 562,Beauty,Skincare,Zenith,5874.37,3389.99
+P00563,Beauty Item 563,Beauty,Haircare,HomeNest,3145.64,2180.56
+P00564,Beauty Item 564,Beauty,Makeup,ActivePro,6107.83,4281.45
+P00565,Beauty Item 565,Beauty,Fragrance,AeroFit,3546.82,2391.27
+P00566,Beauty Item 566,Beauty,Skincare,Zenith,6122.86,4035.11
+P00567,Beauty Item 567,Beauty,Haircare,Everday,5868.06,3253.22
+P00568,Beauty Item 568,Beauty,Makeup,TechNova,3399.73,2025.52
+P00569,Beauty Item 569,Beauty,Fragrance,Zenith,2665.84,1431.27
+P00570,Beauty Item 570,Beauty,Skincare,PureLiving,2890.18,1169.0
+P00571,Beauty Item 571,Beauty,Haircare,PureLiving,2118.65,1031.45
+P00572,Beauty Item 572,Beauty,Makeup,StyleCraft,362.04,170.88
+P00573,Beauty Item 573,Beauty,Fragrance,DailyFresh,2994.23,1365.18
+P00574,Beauty Item 574,Beauty,Skincare,HomeNest,5668.93,3549.42
+P00575,Beauty Item 575,Beauty,Haircare,HomeNest,7675.3,3571.61
+P00576,Beauty Item 576,Beauty,Makeup,UrbanEdge,708.65,408.84
+P00577,Beauty Item 577,Beauty,Fragrance,UrbanEdge,229.47,130.15
+P00578,Beauty Item 578,Beauty,Skincare,HomeNest,2934.04,1617.89
+P00579,Beauty Item 579,Beauty,Haircare,ActivePro,5157.88,2555.03
+P00580,Beauty Item 580,Beauty,Makeup,Zenith,2303.29,1265.33
+P00581,Beauty Item 581,Beauty,Fragrance,Everday,650.48,336.51
+P00582,Beauty Item 582,Beauty,Skincare,Nova,1822.82,642.85
+P00583,Beauty Item 583,Beauty,Haircare,ActivePro,5467.03,2212.59
+P00584,Beauty Item 584,Beauty,Makeup,ActivePro,4554.83,3252.49
+P00585,Beauty Item 585,Beauty,Fragrance,Zenith,2223.17,911.45
+P00586,Beauty Item 586,Beauty,Skincare,PureLiving,7463.53,2613.43
+P00587,Beauty Item 587,Beauty,Haircare,AeroFit,2428.37,1452.54
+P00588,Beauty Item 588,Beauty,Makeup,Everday,1773.58,1140.07
+P00589,Beauty Item 589,Beauty,Fragrance,StyleCraft,7194.88,2933.56
+P00590,Beauty Item 590,Beauty,Skincare,GlowLab,2142.88,1497.77
+P00591,Beauty Item 591,Beauty,Haircare,UrbanEdge,1372.71,554.37
+P00592,Beauty Item 592,Beauty,Makeup,DailyFresh,934.29,507.46
+P00593,Beauty Item 593,Beauty,Fragrance,DailyFresh,3234.0,1305.64
+P00594,Beauty Item 594,Beauty,Skincare,Nova,397.5,142.74
+P00595,Beauty Item 595,Beauty,Haircare,AeroFit,1509.91,536.72
+P00596,Beauty Item 596,Beauty,Makeup,PureLiving,2505.37,1400.43
+P00597,Beauty Item 597,Beauty,Fragrance,DailyFresh,5975.26,4276.6
+P00598,Beauty Item 598,Beauty,Skincare,PureLiving,2277.46,797.23
+P00599,Beauty Item 599,Beauty,Haircare,Nova,401.93,285.71
+P00600,Beauty Item 600,Beauty,Makeup,UrbanEdge,4603.38,2972.71
+P00601,Beauty Item 601,Beauty,Fragrance,StyleCraft,7882.12,3947.51
+P00602,Beauty Item 602,Beauty,Skincare,Zenith,7019.46,3583.35
+P00603,Beauty Item 603,Beauty,Haircare,AeroFit,1000.35,689.07
+P00604,Beauty Item 604,Beauty,Makeup,TechNova,6297.85,3140.82
+P00605,Beauty Item 605,Beauty,Fragrance,TechNova,6853.44,4134.63
+P00606,Beauty Item 606,Beauty,Skincare,GlowLab,2731.77,1152.93
+P00607,Beauty Item 607,Beauty,Haircare,ActivePro,2576.42,1845.27
+P00608,Beauty Item 608,Beauty,Makeup,Zenith,2184.94,898.41
+P00609,Beauty Item 609,Beauty,Fragrance,UrbanEdge,661.55,360.78
+P00610,Beauty Item 610,Beauty,Skincare,ActivePro,4493.19,1647.77
+P00611,Beauty Item 611,Beauty,Haircare,PureLiving,740.35,417.11
+P00612,Beauty Item 612,Beauty,Makeup,Zenith,1831.73,781.71
+P00613,Beauty Item 613,Beauty,Fragrance,TechNova,2003.14,737.98
+P00614,Beauty Item 614,Beauty,Skincare,Nova,5787.88,2590.6
+P00615,Beauty Item 615,Beauty,Haircare,ActivePro,3137.27,1469.57
+P00616,Beauty Item 616,Beauty,Makeup,TechNova,3882.41,2601.42
+P00617,Beauty Item 617,Beauty,Fragrance,PureLiving,2028.39,908.03
+P00618,Beauty Item 618,Beauty,Skincare,ActivePro,1576.89,594.3
+P00619,Beauty Item 619,Beauty,Haircare,GlowLab,5505.19,3496.11
+P00620,Beauty Item 620,Beauty,Makeup,AeroFit,1148.1,658.14
+P00621,Beauty Item 621,Beauty,Fragrance,Nova,202.6,116.61
+P00622,Beauty Item 622,Beauty,Skincare,HomeNest,542.71,265.7
+P00623,Beauty Item 623,Beauty,Haircare,HomeNest,4537.14,2772.61
+P00624,Beauty Item 624,Beauty,Makeup,PureLiving,1270.63,480.06
+P00625,Beauty Item 625,Beauty,Fragrance,PureLiving,3073.23,1423.23
+P00626,Beauty Item 626,Beauty,Skincare,HomeNest,2805.63,1394.27
+P00627,Beauty Item 627,Beauty,Haircare,UrbanEdge,4196.94,1931.69
+P00628,Beauty Item 628,Beauty,Makeup,Nova,2188.5,957.26
+P00629,Beauty Item 629,Beauty,Fragrance,HomeNest,6330.09,2569.11
+P00630,Beauty Item 630,Beauty,Skincare,DailyFresh,6829.43,3357.95
+P00631,Beauty Item 631,Beauty,Haircare,TechNova,1553.87,921.68
+P00632,Beauty Item 632,Beauty,Makeup,ActivePro,7567.87,5106.68
+P00633,Beauty Item 633,Beauty,Fragrance,Nova,5585.09,2953.27
+P00634,Beauty Item 634,Beauty,Skincare,UrbanEdge,1038.43,574.54
+P00635,Beauty Item 635,Beauty,Haircare,StyleCraft,7342.59,4949.83
+P00636,Beauty Item 636,Beauty,Makeup,Nova,4360.61,1770.24
+P00637,Beauty Item 637,Beauty,Fragrance,AeroFit,6861.34,3539.23
+P00638,Beauty Item 638,Beauty,Skincare,TechNova,4047.77,1637.43
+P00639,Beauty Item 639,Beauty,Haircare,ActivePro,990.63,669.42
+P00640,Beauty Item 640,Beauty,Makeup,StyleCraft,5586.22,3693.0
+P00641,Beauty Item 641,Beauty,Fragrance,StyleCraft,6773.7,4303.02
+P00642,Beauty Item 642,Beauty,Skincare,Nova,6199.53,2972.62
+P00643,Beauty Item 643,Beauty,Haircare,Nova,3337.81,2386.62
+P00644,Beauty Item 644,Beauty,Makeup,PureLiving,7903.82,4152.05
+P00645,Beauty Item 645,Beauty,Fragrance,ActivePro,6337.45,4248.66
+P00646,Beauty Item 646,Beauty,Skincare,GlowLab,5232.85,3644.98
+P00647,Beauty Item 647,Beauty,Haircare,PureLiving,7978.2,5683.27
+P00648,Beauty Item 648,Beauty,Makeup,DailyFresh,5570.85,2440.54
+P00649,Beauty Item 649,Beauty,Fragrance,AeroFit,124.58,53.85
+P00650,Beauty Item 650,Beauty,Skincare,PureLiving,1927.89,1068.63

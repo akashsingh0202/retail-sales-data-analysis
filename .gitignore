@@ -24,3 +24,6 @@ env/
 # Operating system
 .DS_Store
 Thumbs.db
+
+
+dataset/messy_retail_sales_1gb.csv
